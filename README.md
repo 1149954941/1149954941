@@ -1,20 +1,21 @@
-# 👋 Hi, I'm Ma Fude!
+# 👋 你好，我是马富德（Ma Fude）！
 
-🎓 Computer Science Student @ NNUZC  
-🤖 Exploring how AI can transform the way we learn  
-💻 Building simple tools to make studying smarter and more fun  
+🎓 南京师范大学中北学院 计算机科学与技术专业学生  
+🤖 探索 AI 如何改变我们的学习方式  
+💻 正在开发一些小工具，让学习变得更聪明、更有趣  
 
-## 🔍 Currently Learning & Building
-- 📚 Using LLMs to auto-summarize lecture notes  
-- 🧠 Generating flashcards (Anki-style) from textbook paragraphs  
-- 🛠️ Experimenting with local AI models (Ollama + Llama.cpp) for privacy-safe learning  
+## 🔍 当前在学 & 在做（Currently Learning & Building）
+- 📚 用大语言模型（LLM）自动总结课堂笔记  
+- 🧠 从教材段落生成 Anki 风格的记忆卡片  
+- 🛠️ 尝试本地运行开源模型（如 Ollama + Llama.cpp），保护隐私的同时高效学习  
 
-## 🚀 Featured Projects
-- [**ai-study-lab**](https://github.com/1149954941/ai-study-lab) – My sandbox for AI-powered learning experiments *(rename this repo soon!)*  
-- [**chatgpt-next-web**](https://github.com/1149954941/chatgpt-next-web) – A modern ChatGPT UI clone  
+## 🚀 主要项目（Featured Projects）
+- [**ai-study-lab**](https://github.com/1149954941/ai-study-lab) – 我的 AI 学习实验场，记录如何用 AI 辅助理解、记忆与思考  
+- [**chatgpt-next-web**](https://github.com/1149954941/chatgpt-next-web) – 一个现代化的 ChatGPT 界面克隆（前端练习项目）  
 
-## 📝 Philosophy
-> “Don’t let AI do your thinking — let it amplify your curiosity.”  
+## 📝 学习理念（Philosophy）
+> “不要让 AI 替你思考，而要让它放大你的好奇心。”  
+> *Don’t let AI do your thinking — let it amplify your curiosity.*
 
-📍 Based in Shanghai, China  
-📧 Reach me at: mafude@outlook.com.ar
+📍 坐标：中国上海  
+📧 邮箱：mafude@outlook.com.ar
