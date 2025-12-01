@@ -17,4 +17,4 @@
 > “Don’t let AI do your thinking — let it amplify your curiosity.”  
 
 📍 Based in Shanghai, China  
-📧 Reach me at: email@example.com
+📧 Reach me at: mafude@outlook.com.ar
