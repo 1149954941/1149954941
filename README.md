@@ -10,7 +10,7 @@
 - 🛠️ Experimenting with local AI models (Ollama + Llama.cpp) for privacy-safe learning  
 
 ## 🚀 Featured Projects
-- [**ai-study-lab**](https://github.com/1149954941/my-project) – My sandbox for AI-powered learning experiments *(rename this repo soon!)*  
+- [**ai-study-lab**](https://github.com/1149954941/ai-study-lab) – My sandbox for AI-powered learning experiments *(rename this repo soon!)*  
 - [**chatgpt-next-web**](https://github.com/1149954941/chatgpt-next-web) – A modern ChatGPT UI clone  
 
 ## 📝 Philosophy
